@@ -69,4 +69,9 @@ a {
     color: rgb(36, 12, 100);
   }
   
+  footer {
+   font-size: 0.6em;
+   /* max-width: 1200px; */
+   /* margin:40px auto; */
+  }
   
