@@ -38,20 +38,21 @@ div {
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
   line-height: 32px;
-  background-color: #ffd200;
+  background-color: #34d0e5;
 }
 
 .weekday {
   font-weight: bold;
 }
  #sat,#sun{
-     color: red;
+     color: #891a1a;
  }
 .today {
   background: #ffd200;
   border-radius: 50%;
   height: 60px;
   width: 60px;
+  color: red;
 }
 
 a {
